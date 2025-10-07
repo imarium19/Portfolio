@@ -20,7 +20,7 @@ This repository showcases my learning, experiments, and applied work in **machin
 |---|----------|--------------|-------------|
 | 1 | [🌸 Iris Flower Classification](./Project1_Iris_classification) | Compared Logistic Regression, Decision Tree, and Random Forest on the Iris dataset. Added Gaussian noise to analyze model robustness. | Classification, Feature Importance, Model Stability |
 | 2 | [🚢 Titanic Survival Prediction](./Project2_Titanic) | Predicted survival outcomes using passenger demographics and travel info. Framed as a human decision-making model under uncertainty. | Data Preprocessing, Logistic Regression, Random Forest |
-| 3 | *(Coming Soon)* | MNIST Digit Recognition | Visual Recognition, Neural Networks |
+| 3 |[🧩 MNIST Classification](./Project3_MNIST/) | MNIST Digit Recognition | Visual Recognition, Neural Networks |
 | 4 | *(Coming Soon)* | Zipf’s Law in Language | NLP, Psycholinguistics, Data Analysis |
 | 5 | *(Coming Soon)* | Reinforcement Learning Bias Simulation | RL, Cognitive Decision Models |
 
