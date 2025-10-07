@@ -42,7 +42,6 @@ My projects aim to bridge this gap — blending the structure of computation wit
 ## 📫 Contact  
 **Email:** marium10.mf@gmail.com  
 **GitHub:** [imarium19](https://github.com/imarium19)  
-**LinkedIn:** *(optional, if you want to add)*  
 
 ---
 
