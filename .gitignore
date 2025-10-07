@@ -1,0 +1,48 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.log
+
+# ---- Virtual Environments ----
+venv/
+env/
+tfenv/
+.venv/
+.env/
+
+# ---- Jupyter ----
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+*.ipynb_checkpoints/*
+
+# ---- Data / Models ----
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.json
+*.h5
+*.hdf5
+*.model
+*.weights
+*.ckpt
+*.zip
+
+# ---- OS / Editor Files ----
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# ---- Temporary Files ----
+*.tmp
+*.bak
+*.old
+
+# ---- Cached ----
+*.cache/
+__pycache__/
