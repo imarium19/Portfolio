@@ -22,7 +22,7 @@ This repository showcases my learning, experiments, and applied work in **machin
 | 2 | [🚢 Titanic Survival Prediction](./Project2_Titanic) | Predicted survival outcomes using passenger demographics and travel info. Framed as a human decision-making model under uncertainty. | Data Preprocessing, Logistic Regression, Random Forest |
 | 3 |[🧩 MNIST Classification](./Project3_MNIST/) | MNIST Digit Recognition | Visual Recognition, Neural Networks |
 | 4 | 🧩 [Phishing Detection Browser Extension](https://github.com/subhan-uf/phishing-detection) | ML-based Chrome extension detecting phishing URLs using a trained Random Forest model |
-| 5 | *(Coming Soon)* | Zipf’s Law in Language | NLP, Psycholinguistics, Data Analysis |
+| 5 | 🩺 [Breast Cancer Detection](./Project5_Breast_Cancer_Detection/) | Tumor classification using Random Forest and Logistic Regression | Evaluated models using confusion matrix and ROC-AUC curve |
 | 6 | *(Coming Soon)* | Reinforcement Learning Bias Simulation | RL, Cognitive Decision Models |
 
 
