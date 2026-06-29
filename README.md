@@ -29,8 +29,9 @@ This repository showcases my learning, experiments, and applied work in **machin
 ---
 
 ## 🧠 Why Cognitive Science & AI  
+Artifical Intelligence is a sociotechnical system, we must learn both aspects of its identity to understand it completely
 Understanding how **humans think, learn, and make decisions** inspires more adaptive and interpretable AI systems.  
-My projects aim to bridge this gap — blending the structure of computation with the complexity of human cognition.
+My projects aim to bridge this gap blending the structure of computation with the complexity of human cognition.
 
 ---
 
