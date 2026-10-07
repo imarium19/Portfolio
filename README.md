@@ -8,7 +8,7 @@ This repository showcases my learning, experiments, and applied work in **machin
 
 ## 🌟 About Me
 - 🎓 **B.Sc. Computer Science and Information Technology**, NED University, Karachi  
-- 🎯 Aspiring **Master’s student in Cognitive Science / AI**  
+- 🎯 **Master’s student in Cognitive Science / AI**  
 - 💡 Interests: Cognitive modeling, AI explainability, decision-making, perception, and language understanding  
 - 🧩 Skilled in: Python, scikit-learn, Pandas, NumPy, Matplotlib, Seaborn  
 
